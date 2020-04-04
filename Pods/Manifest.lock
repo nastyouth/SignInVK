@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyVK (3.4.1)
+
+DEPENDENCIES:
+  - SwiftyVK
+
+SPEC REPOS:
+  trunk:
+    - SwiftyVK
+
+SPEC CHECKSUMS:
+  SwiftyVK: feb6f61d5d0f880b02035d729e12dd613e2f57c7
+
+PODFILE CHECKSUM: fa35ddff794cd1238b30745fe837be6e83edf5b1
+
+COCOAPODS: 1.8.4
